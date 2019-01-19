@@ -1,2 +1,2 @@
 # ChineseCheckers
-Solution of the "Chinese checkers" game using A* search algorithm
+Решение игры "Китайские шашки" с использованием алгоритма поиска пути А*.
